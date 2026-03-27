@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מספרה מקצועית לגברים, נשים וילדים עם עיצוב שיער בייביליס ברמה בינלאומית. תספורות, החלקות, צבע ועוד — כל זה עם חום ואהבה. הזמיני תור עוד היום!
+
+### שירותים ומחירים
+https://example.com/services-prices
+גלי את מגוון שירותי המספרה שלנו: תספורות גברים ונשים, החלקה קרטין, בליאז&#39;, צבע, SmartBond ותוספות שיער — עם מחירים שקופים וברורים. בדקי עכשיו!
+
+### אודות
+https://example.com/about
+אדל תספורות בע&quot;מ היא לא סתם מספרה — זו אמנות שיער ברמה שאין שנייה לה בישראל. הכירי את הבעלים הנלהב שמקבל כל לקוח עם חיוך ומקצועיות שלא מתפשרת.
+
+### צור קשר והזמנות
+https://example.com/contact
+רוצה עיצוב שיער (בייביליס) שישאיר את כולם פעורי פה? קבעי תור אונליין דרך אפליקציית Bizitop, צרי קשר ישיר ובואי לחוות מספרה שפועלת שישה ימים בשבוע רק בשבילך.
+
+### Products
+https://example.com/products
+המוצרים שלנו - אדל תספורות בע"מ
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - אדל תספורות בע"מ
+
+### Category
+https://example.com/category/:slug
+מוצרים - אדל תספורות בע"מ
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
